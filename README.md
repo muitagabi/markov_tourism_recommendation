@@ -42,7 +42,7 @@ pip install pandas numpy scikit-learn
 ## Project Structure
 
 ```
-ai_project_uu/
+markov_tourism_recommendation/
 ├── main.py                          # Main recommendation system
 ├── documentation.py                 # Function documentation
 ├── test_recommendations.py          # Basic functionality tests
